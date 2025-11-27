@@ -48,7 +48,7 @@ dataset.csv	Spam/Ham dataset (optional)
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/email-spam-classifier-ml.git
+git clone https://github.com/shazeemalick/email-spam-classifier-ml.git
 
 
 Navigate into project folder:
